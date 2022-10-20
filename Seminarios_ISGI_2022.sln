@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32602.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HolaOpenGL", "HolaOpenGL\HolaOpenGL.vcxproj", "{F76F537F-27B0-4A04-87BB-415EF1D52F3C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Geometria", "Geometria\Geometria.vcxproj", "{1C39AACF-A606-4E13-A6A3-631BA7B15231}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{F76F537F-27B0-4A04-87BB-415EF1D52F3C}.Release|x64.Build.0 = Release|x64
 		{F76F537F-27B0-4A04-87BB-415EF1D52F3C}.Release|x86.ActiveCfg = Release|Win32
 		{F76F537F-27B0-4A04-87BB-415EF1D52F3C}.Release|x86.Build.0 = Release|Win32
+		{1C39AACF-A606-4E13-A6A3-631BA7B15231}.Debug|x64.ActiveCfg = Debug|x64
+		{1C39AACF-A606-4E13-A6A3-631BA7B15231}.Debug|x64.Build.0 = Debug|x64
+		{1C39AACF-A606-4E13-A6A3-631BA7B15231}.Debug|x86.ActiveCfg = Debug|Win32
+		{1C39AACF-A606-4E13-A6A3-631BA7B15231}.Debug|x86.Build.0 = Debug|Win32
+		{1C39AACF-A606-4E13-A6A3-631BA7B15231}.Release|x64.ActiveCfg = Release|x64
+		{1C39AACF-A606-4E13-A6A3-631BA7B15231}.Release|x64.Build.0 = Release|x64
+		{1C39AACF-A606-4E13-A6A3-631BA7B15231}.Release|x86.ActiveCfg = Release|Win32
+		{1C39AACF-A606-4E13-A6A3-631BA7B15231}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

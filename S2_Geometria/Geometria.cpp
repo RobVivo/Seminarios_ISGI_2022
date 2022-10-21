@@ -56,15 +56,12 @@ void display()
 	glColor3f(1, 0, 0);
 	glCallList(pentagono);
 		
-	glPushAttrib(GL_CURRENT_BIT);
+	glPushAttrib(GL_CURRENT_BIT|GL_LINE_BIT);
+	glLineWidth(4);
 	glPolygonMode(GL_FRONT, GL_LINE);
 	glColor3f(1, 1, 1);
 	glCallList(pentagono);
 	glPopAttrib();
-
-	glPolygonMode(GL_FRONT, GL_POINT);
-	glPointSize(10);
-	glCallList(pentagono);
 
 	glFlush();
 }

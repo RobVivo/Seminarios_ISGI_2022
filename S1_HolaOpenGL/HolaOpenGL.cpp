@@ -2,7 +2,7 @@
 *	HolaOpenGL.cpp
 *	Codigo plantilla basico para una aplicacion de
 *	OpenGL
-* 
+*
 *	@author	r.vivo'
 */
 

@@ -1,0 +1,15 @@
+﻿  Geometria.cpp
+C:\Users\rvivo\source\repos\Seminarios_ISGI_2022\codebase\Utilidades.h(29,44): warning C4305: 'inicializando': truncamiento de 'double' a 'const GLfloat'
+C:\Users\rvivo\source\repos\Seminarios_ISGI_2022\codebase\Utilidades.h(30,45): warning C4305: 'inicializando': truncamiento de 'double' a 'const GLfloat'
+C:\Users\rvivo\source\repos\Seminarios_ISGI_2022\codebase\Utilidades.h(35,57): warning C4305: 'inicializando': truncamiento de 'double' a 'const GLfloat'
+C:\Users\rvivo\source\repos\Seminarios_ISGI_2022\codebase\Utilidades.h(36,57): warning C4305: 'inicializando': truncamiento de 'double' a 'const GLfloat'
+C:\Users\rvivo\source\repos\Seminarios_ISGI_2022\codebase\Utilidades.h(38,54): warning C4305: 'inicializando': truncamiento de 'double' a 'const GLfloat'
+C:\Users\rvivo\source\repos\Seminarios_ISGI_2022\codebase\Utilidades.h(252,37): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\rvivo\source\repos\Seminarios_ISGI_2022\S2_Geometria\Geometria.cpp(28,57): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\rvivo\source\repos\Seminarios_ISGI_2022\S2_Geometria\Geometria.cpp(29,61): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  Generando código
+  2 of 20 functions (10.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  S2_Geometria.vcxproj -> C:\Users\rvivo\source\repos\Seminarios_ISGI_2022\S2_Geometria\S2_Geometria.exe

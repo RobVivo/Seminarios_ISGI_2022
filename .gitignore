@@ -33,3 +33,9 @@
 
 # Visual
 .vs/*
+*.recipe
+*.iobj
+*.ipdb
+*.log
+*.tlog
+*.lastbuildstate

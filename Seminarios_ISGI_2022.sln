@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "S1_HolaOpenGL", "S1_HolaOpe
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "S2_Geometria", "S2_Geometria\S2_Geometria.vcxproj", "{FC1A0B63-0CDF-4D36-82FA-852580846B67}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "S3_Transformaciones", "S3_Transformaciones\S3_Transformaciones.vcxproj", "{C69761BE-F60D-4696-B896-55B7259E53FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{FC1A0B63-0CDF-4D36-82FA-852580846B67}.Release|x64.Build.0 = Release|x64
 		{FC1A0B63-0CDF-4D36-82FA-852580846B67}.Release|x86.ActiveCfg = Release|Win32
 		{FC1A0B63-0CDF-4D36-82FA-852580846B67}.Release|x86.Build.0 = Release|Win32
+		{C69761BE-F60D-4696-B896-55B7259E53FA}.Debug|x64.ActiveCfg = Debug|x64
+		{C69761BE-F60D-4696-B896-55B7259E53FA}.Debug|x64.Build.0 = Debug|x64
+		{C69761BE-F60D-4696-B896-55B7259E53FA}.Debug|x86.ActiveCfg = Debug|Win32
+		{C69761BE-F60D-4696-B896-55B7259E53FA}.Debug|x86.Build.0 = Debug|Win32
+		{C69761BE-F60D-4696-B896-55B7259E53FA}.Release|x64.ActiveCfg = Release|x64
+		{C69761BE-F60D-4696-B896-55B7259E53FA}.Release|x64.Build.0 = Release|x64
+		{C69761BE-F60D-4696-B896-55B7259E53FA}.Release|x86.ActiveCfg = Release|Win32
+		{C69761BE-F60D-4696-B896-55B7259E53FA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

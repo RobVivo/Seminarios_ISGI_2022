@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "S4_Camara", "S4_Camara\S4_C
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "S5_Animacion", "S5_Animacion\S5_Animacion.vcxproj", "{52D58199-11F3-4C68-A377-AF3568BB1CAB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "S6_Interaccion", "S6_Interaccion\S6_Interaccion.vcxproj", "{6CB6C03B-5890-4152-9B62-4FA5E5DE81F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{52D58199-11F3-4C68-A377-AF3568BB1CAB}.Release|x64.Build.0 = Release|x64
 		{52D58199-11F3-4C68-A377-AF3568BB1CAB}.Release|x86.ActiveCfg = Release|Win32
 		{52D58199-11F3-4C68-A377-AF3568BB1CAB}.Release|x86.Build.0 = Release|Win32
+		{6CB6C03B-5890-4152-9B62-4FA5E5DE81F2}.Debug|x64.ActiveCfg = Debug|x64
+		{6CB6C03B-5890-4152-9B62-4FA5E5DE81F2}.Debug|x64.Build.0 = Debug|x64
+		{6CB6C03B-5890-4152-9B62-4FA5E5DE81F2}.Debug|x86.ActiveCfg = Debug|Win32
+		{6CB6C03B-5890-4152-9B62-4FA5E5DE81F2}.Debug|x86.Build.0 = Debug|Win32
+		{6CB6C03B-5890-4152-9B62-4FA5E5DE81F2}.Release|x64.ActiveCfg = Release|x64
+		{6CB6C03B-5890-4152-9B62-4FA5E5DE81F2}.Release|x64.Build.0 = Release|x64
+		{6CB6C03B-5890-4152-9B62-4FA5E5DE81F2}.Release|x86.ActiveCfg = Release|Win32
+		{6CB6C03B-5890-4152-9B62-4FA5E5DE81F2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

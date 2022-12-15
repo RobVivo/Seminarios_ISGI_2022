@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "S6_Interaccion", "S6_Intera
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "S7_Iluminacion", "S7_Iluminacion\S7_Iluminacion.vcxproj", "{49079810-DFF9-4C46-BDFF-BB7EB6F7C94A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "S8_Texturas", "S8_Texturas\S8_Texturas.vcxproj", "{FBB65959-CAEB-402D-ADB9-BED61A39C87B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{49079810-DFF9-4C46-BDFF-BB7EB6F7C94A}.Release|x64.Build.0 = Release|x64
 		{49079810-DFF9-4C46-BDFF-BB7EB6F7C94A}.Release|x86.ActiveCfg = Release|Win32
 		{49079810-DFF9-4C46-BDFF-BB7EB6F7C94A}.Release|x86.Build.0 = Release|Win32
+		{FBB65959-CAEB-402D-ADB9-BED61A39C87B}.Debug|x64.ActiveCfg = Debug|x64
+		{FBB65959-CAEB-402D-ADB9-BED61A39C87B}.Debug|x64.Build.0 = Debug|x64
+		{FBB65959-CAEB-402D-ADB9-BED61A39C87B}.Debug|x86.ActiveCfg = Debug|Win32
+		{FBB65959-CAEB-402D-ADB9-BED61A39C87B}.Debug|x86.Build.0 = Debug|Win32
+		{FBB65959-CAEB-402D-ADB9-BED61A39C87B}.Release|x64.ActiveCfg = Release|x64
+		{FBB65959-CAEB-402D-ADB9-BED61A39C87B}.Release|x64.Build.0 = Release|x64
+		{FBB65959-CAEB-402D-ADB9-BED61A39C87B}.Release|x86.ActiveCfg = Release|Win32
+		{FBB65959-CAEB-402D-ADB9-BED61A39C87B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
